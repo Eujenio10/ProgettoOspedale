@@ -272,3 +272,8 @@ brew install python-tk
 
 - **v1.0**: Versione iniziale con tutte le funzionalità base
 
+![Interfaccia](https://github.com/user-attachments/assets/069b2c95-fae7-4425-95b9-b2f91dc51ed7)
+
+
+
+
