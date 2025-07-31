@@ -273,6 +273,7 @@ brew install python-tk
 - **v1.0**: Versione iniziale con tutte le funzionalità base
 
 Login :
+
 ![Login](https://github.com/user-attachments/assets/f121af19-1046-470b-a909-8fc4e2ce79e6)
 
 Menu : 
