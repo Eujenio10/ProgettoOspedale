@@ -1,0 +1,10 @@
+# Moduli built-in di Python - non necessitano di installazione
+# tkinter - incluso in Python
+# sqlite3 - incluso in Python  
+# datetime - incluso in Python
+# csv - incluso in Python
+# os - incluso in Python
+# sys - incluso in Python
+
+# Se necessario, aggiungere qui dipendenze esterne
+# esempio: requests==2.31.0 

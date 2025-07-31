@@ -271,3 +271,4 @@ brew install python-tk
 ## 🔄 Versioni
 
 - **v1.0**: Versione iniziale con tutte le funzionalità base
+

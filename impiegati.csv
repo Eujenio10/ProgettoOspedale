@@ -1,0 +1,16 @@
+id_impiegato,nome,cognome,reparto
+CARD001,Mario,Rossi,Cardiologia
+CARD002,Anna,Bianchi,Cardiologia
+CARD003,Giuseppe,Verdi,Cardiologia
+NEUR001,Laura,Neri,Neurologia
+NEUR002,Marco,Gialli,Neurologia
+NEUR003,Sofia,Rosa,Neurologia
+CHIR001,Roberto,Blu,Chirurgia
+CHIR002,Elena,Viola,Chirurgia
+CHIR003,Paolo,Arancione,Chirurgia
+PEDI001,Francesca,Verde,Pediatria
+PEDI002,Luca,Marrone,Pediatria
+PEDI003,Chiara,Grigio,Pediatria
+PS001,Antonio,Nero,Pronto Soccorso
+PS002,Maria,Bianco,Pronto Soccorso
+PS003,Davide,Rosso,Pronto Soccorso 
