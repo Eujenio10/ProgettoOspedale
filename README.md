@@ -272,7 +272,28 @@ brew install python-tk
 
 - **v1.0**: Versione iniziale con tutte le funzionalità base
 
-![Interfaccia](https://github.com/user-attachments/assets/069b2c95-fae7-4425-95b9-b2f91dc51ed7)
+Login :
+![Login](https://github.com/user-attachments/assets/f121af19-1046-470b-a909-8fc4e2ce79e6)
+
+Menu : 
+
+![Interfaccia](https://github.com/user-attachments/assets/a53bb18f-de89-45a7-9c4c-a87be7edc688)
+
+Gestione Pazienti : 
+
+![pazienti](https://github.com/user-attachments/assets/06300261-40f9-44fc-9f61-312ffa5b618b)
+
+Gestione Stanze : 
+
+![stanze](https://github.com/user-attachments/assets/16625e3c-b7e7-43b6-914b-c9339488aa73)
+
+Schede Cliniche :
+
+![scheda_clinica](https://github.com/user-attachments/assets/72c38292-75a9-4b7b-b0f8-3ff6d103a350)
+
+Log Attività : 
+
+![log_attività](https://github.com/user-attachments/assets/e5b473fd-3287-40fa-b87e-c2fd4fa1a544)
 
 
 
